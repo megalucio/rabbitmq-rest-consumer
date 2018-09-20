@@ -47,6 +47,12 @@ Start JSON Server
 json-server --watch db.json
 `
 
+or
+
+`
+mvn spring-boot:run
+`
+
 ## Run app
 
 `
